@@ -6,7 +6,7 @@
 python内置了两个网络库urllib和urllib2，但是这两个库使用起来不是特别方便，所以在这里我们使用一个广受好评的第三方库requests。使用requests只用很少的几行代码就可以实现设置代理，模拟登陆等比较复杂的爬虫工作。如果已经安装pip的话，直接使用pip install requests 即可安装。
 
 中文文档地址在此
-http://docs.python-requests.org/zh_CN/latest/user/quickstart.html，
+http://docs.python-requests.org/zh_CN/latest/user/quickstart.html
 
 大家有什么问题可以自行参考官方文档，上面会有非常详细的介绍。
 
